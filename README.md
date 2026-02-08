@@ -1,0 +1,1 @@
+To succesfully view the website pls unzip the downloaded file, then open it in vs code. After which open a new terminal and write " npm Install " then run " npm run dev " and after that a local host link will b generated click on that link by oressing ctrl and clicking on the link.
